@@ -1,1 +1,2 @@
-print("Dat is Python")
+print("It is Python")
+print("Stop")
